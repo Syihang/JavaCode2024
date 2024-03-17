@@ -1,4 +1,4 @@
-package packagetst01;
+package Experiment2;
 
 import java.util.Random;
 import java.util.Scanner;
@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class RandomNumber0 {
     public static void main(String[] args){
 
-        int times = 5;     // 比赛次数
+        int times = 3;     // 比赛次数
         Scanner sc = new Scanner(System.in);
 
         int winCount = 0;   // 获胜次数
