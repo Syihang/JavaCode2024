@@ -14,7 +14,7 @@ public class GameTest {
             }
             r2.attact(r1);
             if (r1.getBlood() * r2.getBlood() == 0) {
-                System.out.println(( r1.getBlood() != 0 ? r1.getName():r2.getName() ) + "获得了胜利");
+                System.out.println(( r1.getBlood() != 0 ? r1.getName():r2.getName() ) + "获得了胜利。");
                 break;
             }
 
