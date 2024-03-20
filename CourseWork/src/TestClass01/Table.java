@@ -4,7 +4,7 @@ public class Table {
     private int length;
     private int wide;
     private int high;
-    String material;
+    private String material;
 
     public void show() {
         System.out.println("桌子的长为：" + getLength());

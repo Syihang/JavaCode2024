@@ -4,8 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ACwing_Test/ACwing_Test.iml" filepath="$PROJECT_DIR$/ACwing_Test/ACwing_Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class_Test/Class_Test.iml" filepath="$PROJECT_DIR$/Class_Test/Class_Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CourseWork/CouresWork.iml" filepath="$PROJECT_DIR$/CourseWork/CouresWork.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaCode2024.iml" filepath="$PROJECT_DIR$/.idea/JavaCode2024.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ModuleTest01/ModuleTest01.iml" filepath="$PROJECT_DIR$/ModuleTest01/ModuleTest01.iml" />
     </modules>
   </component>
 </project>
