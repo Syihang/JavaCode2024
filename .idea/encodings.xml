@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Class_Test/src/Exam/SuYihangTest01.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Class_Test/src/Exam/SuYihangTest03/SuYihangTest03.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Class_Test/src/Exam/SuYihangTest04/SuYihangTest04.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/Class_Test/src/RandomUnderlyingLogic/Experiment5/Par01/Person_Student_Test.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/Class_Test/src/RandomUnderlyingLogic/Experiment5/Part02/Bicycle.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/Class_Test/src/RandomUnderlyingLogic/Experiment5/Part02/Car.java" charset="GBK" />
