@@ -97,7 +97,7 @@ public class StudentGradeGUI extends JFrame {
     }
 
     private void saveToTxt() {
-        File file = new File("D:\\Java\\JavaCode2024\\CourseWork\\src\\Expriment12\\text.txt");
+        File file = new File("CourseWork\\src\\Expriment12\\text.txt");
         try (PrintWriter writer = new PrintWriter(file)) {
             for (int i = 0; i < model.getRowCount(); i++) {
                 StringBuilder line = new StringBuilder();
@@ -116,7 +116,7 @@ public class StudentGradeGUI extends JFrame {
     }
 
     private void loadFromTxt() {
-        File file = new File("D:\\Java\\JavaCode2024\\CourseWork\\src\\Expriment12\\text.txt");
+        File file = new File("CourseWork\\src\\Expriment12\\text.txt");
         if (file.exists()) {
             try (BufferedReader reader = new BufferedReader(new FileReader(file))) {
                 String line;
