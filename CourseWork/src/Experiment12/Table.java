@@ -1,4 +1,4 @@
-package Expriment12;
+package Experiment12;
 
 import javax.swing.*;
 import java.util.ArrayList;
@@ -12,6 +12,7 @@ public class Table extends JFrame {
 
         initFrame();
 
+        setVisible(true);
     }
 
     private void initFrame() {

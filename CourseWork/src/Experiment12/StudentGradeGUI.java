@@ -1,4 +1,4 @@
-package Expriment12;
+package Experiment12;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
@@ -12,7 +12,7 @@ public class StudentGradeGUI extends JFrame {
     private DefaultTableModel model;
 
     public StudentGradeGUI() {
-        setTitle("学生姓名与成绩");
+        setTitle("学生成绩统计表");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(600, 400);
         setLocationRelativeTo(null);
@@ -49,7 +49,7 @@ public class StudentGradeGUI extends JFrame {
                 calculateTotalScore(table);
             }
         });
-        JButton saveButton = new JButton("保存到txt");
+        JButton saveButton = new JButton("保存");
         saveButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
